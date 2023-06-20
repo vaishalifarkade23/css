@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+/* External css
+
+body{background-color:cyan}
+		h2{color:white;text-align:center;background-color: red}
+		p{font-family: Arial;font-size: 20px}
+		#pid{text-align:center;color: green;background-color:yellow }
+		.center{
+				text-align:center;
+				font-style:italic;
+				font-size: 20px;
+		       }
